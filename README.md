@@ -18,8 +18,12 @@ This project analyzes **state-wise pesticide consumption in India** to understan
 - **Pandas, NumPy** – Data manipulation
 - **Matplotlib / Seaborn** – Basic visual analysis
 - **Power BI** – Interactive dashboard creation
-- **Excel / CSV** – Data source
+- **CSV** – Data source
 
----
+[Pesticides_consumption_datafile.csv](https://github.com/user-attachments/files/24453241/Pesticides_consumption_datafile.csv)
+[Pesticides_cleaning.ipynb](https://github.com/user-attachments/files/24453618/Pesticides_cleaning.ipynb)
+[Pesticides_consumption_EDA.ipynb](https://github.com/user-attachments/files/24453766/Pesticides_consumption_EDA.ipynb)
+[Pesticide_consumption_insights.docx](https://github.com/user-attachments/files/24453777/Pesticide_consumption_insights.docx)
+<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/6eddab0d-e5a5-4351-b471-e12ddf4f2da1" />
 
-## 📂 Project Structure
+
