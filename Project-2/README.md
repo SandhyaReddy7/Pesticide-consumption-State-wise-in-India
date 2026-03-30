@@ -37,4 +37,9 @@ This project analyzes the quality of Arabica coffee beans across different count
 * Power BI (Dashboard Visualization)
 * Data Cleaning & Analysis Techniques
 
+  ## PowerBI Dashboard File
+[Download Power BI File](https://drive.google.com/file/d/1qSSdBcLW_pJ6AfIBKZ2KdzNk33PSSdR_/view?usp=sharing)
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/4d37f3b7-df90-4340-9fdc-a645b39b120e" />
+
+
   
